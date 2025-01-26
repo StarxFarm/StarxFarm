@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">👋 Hello, I'm <span style="color:#F7DF1E;">Bintang</span>!</h1>
 <h3 align="center">A Passionate Developer Who Loves Crafting Code! 💻</h3>
