@@ -1,19 +1,14 @@
-
-
-<h1 align="center">👋 Hello, I'm <span style="color:#F7DF1E;">Bintang</span>!</h1>
-<h3 align="center">A Passionate Developer Who Loves Crafting Code! 💻</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=👋+Hi,+I%27m+Bintang;👨‍💻+Fullstack+Developer;🚀+Code.+Create.+Inspire." alt="Typing SVG" />
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=350&lines=Passionate+about+Crafting+Code!;Always+Learning+and+Innovating!" alt="Subheader Typing SVG" />
+</h3>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,mysql,python" alt="Tech Stack" />
 </p>
 
 ---
@@ -21,14 +16,15 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  🚀 I’m a software enthusiast with a passion for building clean and efficient code.  
-  🎯 My goal is to turn complex problems into elegant solutions.  
-  🌱 Currently learning <strong>Next.js</strong> and exploring <strong>AI technologies</strong>.  
+  👨‍💻 Passionate about building <b>intuitive</b> and <b>impactful</b> digital experiences.<br>
+  🎯 Always striving for <b>elegant solutions</b> to complex problems.<br>
+  🌱 Currently exploring <b>Next.js</b> and diving into <b>AI technologies</b>.<br>
+  💡 I love sharing knowledge and learning from others!
 </p>
 
 ---
 
-<h2 align="center">📫 Connect with Me</h2>
+<h2 align="center">📬 Let's Connect!</h2>
 
 <p align="center">
   <a href="https://youtube.com" target="_blank">
@@ -50,15 +46,34 @@
 <h2 align="center">⚡ Fun Facts</h2>
 
 <ul align="center">
-  <li>🔥 I love solving algorithmic challenges.</li>
-  <li>🎨 In my free time, I enjoy designing UI mockups.</li>
-  <li>🎵 Music and coding make the perfect combo for me!</li>
+  <li>🧩 I thrive on solving algorithmic and logical challenges.</li>
+  <li>🎨 Designing eye-catching UI mockups is my creative escape.</li>
+  <li>🎵 Music fuels my productivity and inspires my creativity.</li>
+  <li>☕ Coffee and code: my dynamic duo for late-night projects!</li>
 </ul>
 
 ---
 
-<h2 align="center">✨ "Coding is the poetry of logic."</h2>
+<h2 align="center">✨ Inspiration</h2>
+
+<p align="center">
+  <i>"Coding is the poetry of logic."</i>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StarxFarm&show_icons=true&theme=radical" alt="Bintang's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StarxFarm&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarxFarm&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </p>
