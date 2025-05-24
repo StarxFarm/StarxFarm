@@ -60,13 +60,11 @@
 </ul>
 
 ---
-
-<h2 align="center">✨ Inspiration</h2>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
 </p>
-<p align="center"><i>"Coding is the poetry of logic."</i></p>
+
+
 
 ---
 
@@ -79,7 +77,10 @@
 </p>
 
 ---
+<h2 align="center">✨ Inspiration</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
+<p align="center"><i>"Coding is the poetry of logic."</i></p>
+
