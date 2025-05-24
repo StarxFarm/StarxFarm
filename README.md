@@ -1,15 +1,16 @@
 <p align="center">
-  <span style="font-size: 38px; font-weight: bold;">👋 Hi, I'm Bintang</span><br>
-  <span style="font-size: 32px; font-weight: bold;">👨‍💻 Fullstack Developer</span><br>
-  <span style="font-size: 28px;">🚀 Code. Create. Inspire.</span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I%27m+Bintang!;🚀+Fullstack+Developer;✨+Code.+Create.+Inspire." />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=350&lines=Passionate+about+Crafting+Code!;Always+Learning+and+Innov..." />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fd297b,100:ff655b&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&desc=Crafting%20code%20with%20passion%20and%20purpose&descAlign=50" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,mysql,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,php,mysql,python,figma,tailwind,git" alt="Tech Stack" /><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=StarxFarm&theme=radical&margin-w=10&row=1" alt="Trophies"/>
 </p>
 
 ---
@@ -17,10 +18,12 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  👨‍💻 Passionate about building <b>intuitive</b> and <b>impactful</b> digital experiences.<br>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100"/><br>
+  <b>Turning ideas into beautiful digital experiences</b><br><br>
+  👨‍💻 <b>Passionate</b> about building <b>intuitive</b> and <b>impactful</b> products.<br>
   🎯 Always striving for <b>elegant solutions</b> to complex problems.<br>
-  🌱 Currently exploring <b>Next.js</b> and diving into <b>AI technologies</b>.<br>
-  💡 I love sharing knowledge and learning from others!
+  🌱 Currently deep-diving into <b>Next.js</b> and exploring <b>AI technologies</b>.<br>
+  💡 I love <b>sharing knowledge</b> and <b>learning from others</b>!<br>
 </p>
 
 ---
@@ -29,16 +32,16 @@
 
 <p align="center">
   <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -46,11 +49,14 @@
 
 <h2 align="center">⚡ Fun Facts</h2>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70"/><br>
+</p>
 <ul align="center">
-  <li>🧩 I thrive on solving algorithmic and logical challenges.</li>
-  <li>🎨 Designing eye-catching UI mockups is my creative escape.</li>
-  <li>🎵 Music fuels my productivity and inspires my creativity.</li>
-  <li>☕ Coffee and code: my dynamic duo for late-night projects!</li>
+  <li>🧩 I love solving algorithmic and logical challenges</li>
+  <li>🎨 Designing eye-catching UI mockups is my creative escape</li>
+  <li>🎵 Music fuels my productivity and creativity</li>
+  <li>☕ Coffee and code: dynamic duo for late-night projects!</li>
 </ul>
 
 ---
@@ -58,23 +64,22 @@
 <h2 align="center">✨ Inspiration</h2>
 
 <p align="center">
-  <i>"Coding is the poetry of logic."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
+<p align="center"><i>"Coding is the poetry of logic."</i></p>
+
+---
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StarxFarm&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Bintang's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=StarxFarm&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarxFarm&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
+</p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarxFarm&show_icons=true&theme=radical" alt="Bintang's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StarxFarm&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarxFarm&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </p>
