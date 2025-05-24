@@ -1,17 +1,10 @@
-<svg width="435" height="80" viewBox="0 0 435 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="435" height="80" rx="20" fill="#222" />
-  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="24" font-weight="bold">
-    👋 Hi, I'm Bintang
-  </text>
-  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="20">
-    👨‍💻 Fullstack Developer
-  </text>
-  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="18">
-    🚀 Code. Create. Inspire.
-  </text>
-</svg>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=350&lines=Passionate+about+Crafting+Code!;Always+Learning+and+Innovating!" alt="Subheader Typing SVG" />
-</h3>
+<p align="center">
+  <span style="font-size: 38px; font-weight: bold;">👋 Hi, I'm Bintang</span><br>
+  <span style="font-size: 32px; font-weight: bold;">👨‍💻 Fullstack Developer</span><br>
+  <span style="font-size: 28px;">🚀 Code. Create. Inspire.</span>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=350&lines=Passionate+about+Crafting+Code!;Always+Learning+and+Innov..." />
 
 ---
 
