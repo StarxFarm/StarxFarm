@@ -18,7 +18,7 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="100"/><br>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500"/><br>
   <b>Turning ideas into beautiful digital experiences</b><br><br>
   👨‍💻 <b>Passionate</b> about building <b>intuitive</b> and <b>impactful</b> products.<br>
   🎯 Always striving for <b>elegant solutions</b> to complex problems.<br>
