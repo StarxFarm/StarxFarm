@@ -1,7 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=👋+Hi,+I%27m+Bintang;👨‍💻+Fullstack+Developer;🚀+Code.+Create.+Inspire." alt="Typing SVG" />
-</h1>
-<h3 align="center">
+<svg width="435" height="80" viewBox="0 0 435 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="435" height="80" rx="20" fill="#222" />
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="24" font-weight="bold">
+    👋 Hi, I'm Bintang
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="20">
+    👨‍💻 Fullstack Developer
+  </text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" fill="#F7DF1E" font-family="'Fira Code', monospace" font-size="18">
+    🚀 Code. Create. Inspire.
+  </text>
+</svg>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=350&lines=Passionate+about+Crafting+Code!;Always+Learning+and+Innovating!" alt="Subheader Typing SVG" />
 </h3>
 
