@@ -50,7 +50,7 @@
 <h2 align="center">⚡ Fun Facts</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70"/><br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/><br>
 </p>
 <ul align="center">
   <li>🧩 I love solving algorithmic and logical challenges</li>
