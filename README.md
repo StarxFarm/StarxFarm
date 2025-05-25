@@ -2,7 +2,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bintang!;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG" />
 </p>
 
- <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+<!-- Neon animated SVG for GitHub README -->
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Welcome to my GitHub neon sign">
+  <defs>
+    <!-- Glow filter for neon effect -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB" >
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#39ff14" flood-opacity="0.7"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#39ff14" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#39ff14" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Text with stroke and glow effect -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-family="monospace, monospace"
         font-size="48"
         fill="none" stroke="#39ff14" stroke-width="2"
@@ -11,6 +23,12 @@
     <animate attributeName="stroke-dasharray" from="0, 1000" to="1000, 0" dur="3s" repeatCount="indefinite" />
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="3s" repeatCount="indefinite" />
   </text>
+
+  <!-- Flicker glow animation -->
+  <animate attributeName="filter" values="url(#neonGlow); none; url(#neonGlow)" dur="6s" repeatCount="indefinite" />
+</svg>
+
+
 ---
 
 <p align="center">
