@@ -2,17 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bintang!;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Contoh SVG Neon Animated (bisa diubah gaya dan warna sesuai selera) -->
-  <svg width="600" height="100">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-size="48" font-family="monospace"
-          fill="none" stroke="#39ff14" stroke-width="2">
-      WELCOME TO MY GITHUB!
-      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="3s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
+ <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="monospace, monospace"
+        font-size="48"
+        fill="none" stroke="#39ff14" stroke-width="2"
+        style="filter: url(#neonGlow);">
+    WELCOME TO MY GITHUB!
+    <animate attributeName="stroke-dasharray" from="0, 1000" to="1000, 0" dur="3s" repeatCount="indefinite" />
+    <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="3s" repeatCount="indefinite" />
+  </text>
 ---
 
 <p align="center">
