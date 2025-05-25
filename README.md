@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,php,mysql,python,figma,tailwind,git" alt="Tech Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,mysql,python,figma,bootstrap,git" alt="Tech Stack" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=StarxFarm&theme=radical&margin-w=10&row=1" alt="Trophies"/>
 </p>
 
