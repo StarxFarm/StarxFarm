@@ -3,9 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fd297b,100:ff655b&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontAlign=50&desc=Crafting%20code%20with%20passion%20and%20purpose&descAlign=50" />
+  <!-- Contoh SVG Neon Animated (bisa diubah gaya dan warna sesuai selera) -->
+  <svg width="600" height="100">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-size="48" font-family="monospace"
+          fill="none" stroke="#39ff14" stroke-width="2">
+      WELCOME TO MY GITHUB!
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </svg>
 </p>
-
 ---
 
 <p align="center">
