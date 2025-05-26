@@ -1,6 +1,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bintang!;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG" />
 </p>
+
+<!-- Welcome Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Welcome+to+StarxFarm's+GitHub!;Explore+my+projects+and+journey+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80"/>
+  
+  <h1>✨ Welcome to my GitHub! ✨</h1>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=StarxFarm%20Space&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
+  
+  <p>
+    <b>Feel free to explore my repositories, contributions, and coding adventures!</b>
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</div>
 ---
 
 <p align="center">
