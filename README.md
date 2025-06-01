@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,mysql,python,figma,bootstrap,git" alt="Tech Stack" /><br>
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,figma,bootstrap,git" alt="Tech Stack" /><br>
   <img src="https://github-profile-trophy.vercel.app/?username=StarxFarm&theme=radical&margin-w=10&row=1" alt="Trophies"/>
 </p>
 
