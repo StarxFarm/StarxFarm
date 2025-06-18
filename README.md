@@ -1,97 +1,121 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=800&color=61DAFB&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Bintang!;%E2%9C%A8+Code.+Create.+Inspire." alt="Typing SVG" />
-</p>
-
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80"/>
-  
-  <h1>✨ Welcome to my GitHub! ✨</h1>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=StarxFarm%20Space&fontSize=40&fontAlignY=35&animation=twinkling" alt="header"/>
-  
-  <p>
-    <b>Feel free to explore my repositories, contributions, and coding adventures!</b>
-  </p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</div>
----
+# 🚀 Fullstack JavaScript Project
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,figma,bootstrap,git" alt="Tech Stack" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=StarxFarm&theme=radical&margin-w=10&row=1" alt="Trophies"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
 </p>
 
 ---
 
-<h2 align="center">🌟 About Me</h2>
+## ✨ About This Project
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="500"/><br>
-  <b>Turning ideas into beautiful digital experiences</b><br><br>
-  👨‍💻 <b>Passionate</b> about building <b>intuitive</b> and <b>impactful</b> products.<br>
-  🎯 Always striving for <b>elegant solutions</b> to complex problems.<br>
-  🌱 Currently deep-diving into <b>Next.js</b> and exploring <b>AI technologies</b>.<br>
-  💡 I love <b>sharing knowledge</b> and <b>learning from others</b>!<br>
-</p>
+**Fullstack Javascript** is a modern, scalable, and blazing-fast fullstack project combining the best technologies for web development. Built with a developer-first mindset, it features:
 
----
-
-<h2 align="center">📬 Let's Connect!</h2>
-
-<p align="center">
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- ⚛️ **React** (Frontend Library)
+- ⚡ **Vite** (Ultra-fast tooling)
+- 🎨 **Tailwind CSS** (Utility-first styling)
+- 📝 **Figma** (Design System Integration)
+- 🌱 **MongoDB** (NoSQL Database)
+- 💻 **JavaScript & TypeScript** (Dual language support)
+- 🌍 **Git** (Version Control)
 
 ---
 
-<h2 align="center">⚡ Fun Facts</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/><br>
-</p>
-<ul align="center">
-  <li>🧩 I love solving algorithmic and logical challenges</li>
-  <li>🎨 Designing eye-catching UI mockups is my creative escape</li>
-  <li>🎵 Music fuels my productivity and creativity</li>
-  <li>☕ Coffee and code: dynamic duo for late-night projects!</li>
-</ul>
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400px"/>
-</p>
-
-
+| Frontend      | Backend         | Database   | Tools & Design |
+| :---:         | :---:           | :---:      | :---:          |
+| React         | Node.js         | MongoDB    | Figma          |
+| Vite          | Express.js      |            | Git            |
+| Tailwind CSS  | TypeScript/JS   |            | VS Code        |
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+## 🚦 Features
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StarxFarm&show_icons=true&theme=radical&border_radius=15&hide_title=true" height="150" alt="Bintang's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=StarxFarm&theme=radical&hide_border=false&border_radius=15" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarxFarm&layout=compact&theme=radical&border_radius=15" height="150" alt="Top Languages"/>
-</p>
+- 🔥 **Lightning Fast**: Powered by Vite & optimized builds
+- ✨ **Pixel Perfect UI**: Styled with Tailwind CSS and Figma designs
+- 🛡️ **Type Safe**: Write in TypeScript or JavaScript, your choice
+- 📦 **RESTful API**: Built with Express.js & MongoDB
+- 🌍 **Responsive**: Mobile-first, looks great everywhere
+- 💻 **Developer Friendly**: Prettier, ESLint, Husky included
+- ♻️ **Reusable Components**: Atomic design philosophy
 
 ---
-<h2 align="center">✨ Inspiration</h2>
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+## 📁 Project Structure
+
+```
+├── src/
+│   ├── components/   # Reusable React components
+│   ├── pages/        # Page components
+│   ├── assets/       # Images, icons, etc
+│   ├── styles/       # Tailwind config & global styles
+│   ├── api/          # API services
+│   └── types/        # TypeScript types
+├── server/           # Express.js backend
+│   ├── models/       # Mongoose models
+│   ├── routes/       # API routes
+│   └── controllers/  # Route controllers
+├── public/
+├── package.json
+└── README.md
+```
+
+---
+
+## 🎨 Design & Prototyping
+
+- All UI/UX design assets available in [Figma](https://www.figma.com/).
+- Figma components mapped to React components for seamless design-to-code workflow.
+
+---
+
+## 🌟 Contribution
+
+1. Fork this repo
+2. Create your branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request 🚀
+
+---
+
+## 👨‍💻 Author
+
+- [Your Name](https://github.com/StarxFarm)
+- [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
+---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fullstack/fullstack.png" width="100"/>
 </p>
-<p align="center"><i>"Coding is the poetry of logic."</i></p>
-
