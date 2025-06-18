@@ -1,121 +1,69 @@
-# 🚀 Fullstack JavaScript Project
+<!--
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+         "Bintang Wira" — Fullstack Developer
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+-->
 
+<div align="center">
+
+<h1>
+  <span>
+    <img src="https://raw.githubusercontent.com/StarxFarm/starxfarm-assets/main/star-animated.gif" width="48" style="vertical-align:middle;" alt="Star Icon"/>
+  </span>
+  <span style="font-family:'Fira Code', monospace;">Bintang Wira</span>
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=✨+Fullstack+Developer+%7C+Web+Architect+%7C+Cloud+Enthusiast+✨;Welcome+to+my+interactive+GitHub!;Keep+Shining+Bright!+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
+
+<img src="https://raw.githubusercontent.com/StarxFarm/starxfarm-assets/main/transition-star.gif" alt="Transisi Bintang" width="90"/>
+
+---
+
+### 🔥 Tech Stack — Always Sparkling!
+
+<div align="center" style="margin-top: 1rem; margin-bottom: 1rem;">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,express,tailwind,git,mongodb&theme=light&perline=7" 
+       alt="Tech Stack Badges" style="background: #fff; border-radius: 8px; box-shadow: 0 0 15px #FFD700AA;">
+</div>
+
+---
+
+### 🚀 About Me
+
+- 💡 Fullstack Developer, love to learn, share, & build impactful things!
+- 🌠 Focus: Modern Web, API, UI/UX, DevOps, Cloud, and Open Source.
+- 🛠️ Always exploring new stacks, frameworks, and shiny tech!
+- 🌏 Let's connect & collaborate!
+
+---
+
+### 📫 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bintangwira)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/starxfarm)
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/starxfarm)
+
+---
+
+### 🌟 GitHub Stats & Activity
+
+<!-- GITHUB STATS -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StarxFarm&theme=radical&fire=FFD700&currStreakLabel=FFD700" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StarxFarm&show_icons=true&count_private=true&theme=radical&icon_color=FFD700&title_color=FFD700" alt="GitHub Stats" />
+</p>
+
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StarxFarm&layout=compact&langs_count=7&theme=radical&title_color=FFD700" alt="Top Langs" />
 </p>
 
 ---
 
-## ✨ About This Project
+### ✨ Let's Shine Together!
 
-**Fullstack Javascript** is a modern, scalable, and blazing-fast fullstack project combining the best technologies for web development. Built with a developer-first mindset, it features:
+![Star](https://raw.githubusercontent.com/StarxFarm/starxfarm-assets/main/shining-star.gif)
 
-- ⚛️ **React** (Frontend Library)
-- ⚡ **Vite** (Ultra-fast tooling)
-- 🎨 **Tailwind CSS** (Utility-first styling)
-- 📝 **Figma** (Design System Integration)
-- 🌱 **MongoDB** (NoSQL Database)
-- 💻 **JavaScript & TypeScript** (Dual language support)
-- 🌍 **Git** (Version Control)
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend      | Backend         | Database   | Tools & Design |
-| :---:         | :---:           | :---:      | :---:          |
-| React         | Node.js         | MongoDB    | Figma          |
-| Vite          | Express.js      |            | Git            |
-| Tailwind CSS  | TypeScript/JS   |            | VS Code        |
-
----
-
-## 🚦 Features
-
-- 🔥 **Lightning Fast**: Powered by Vite & optimized builds
-- ✨ **Pixel Perfect UI**: Styled with Tailwind CSS and Figma designs
-- 🛡️ **Type Safe**: Write in TypeScript or JavaScript, your choice
-- 📦 **RESTful API**: Built with Express.js & MongoDB
-- 🌍 **Responsive**: Mobile-first, looks great everywhere
-- 💻 **Developer Friendly**: Prettier, ESLint, Husky included
-- ♻️ **Reusable Components**: Atomic design philosophy
-
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
----
-
-## 📁 Project Structure
-
-```
-├── src/
-│   ├── components/   # Reusable React components
-│   ├── pages/        # Page components
-│   ├── assets/       # Images, icons, etc
-│   ├── styles/       # Tailwind config & global styles
-│   ├── api/          # API services
-│   └── types/        # TypeScript types
-├── server/           # Express.js backend
-│   ├── models/       # Mongoose models
-│   ├── routes/       # API routes
-│   └── controllers/  # Route controllers
-├── public/
-├── package.json
-└── README.md
-```
-
----
-
-## 🎨 Design & Prototyping
-
-- All UI/UX design assets available in [Figma](https://www.figma.com/).
-- Figma components mapped to React components for seamless design-to-code workflow.
-
----
-
-## 🌟 Contribution
-
-1. Fork this repo
-2. Create your branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request 🚀
-
----
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/StarxFarm)
-- [![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
----
-
-## 📝 License
-
-This project is [MIT](LICENSE) licensed.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/fullstack/fullstack.png" width="100"/>
-</p>
+</div>
