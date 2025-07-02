@@ -12,19 +12,7 @@
 
 ## ⚙️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50" alt="php" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Next.js" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50" alt="Laravel" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MySQl" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" style="margin: 10px;"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" style="margin: 10px;"/>
-</div>
-
-
+COMING SOON 
 
 ## 🤖 About Me
 
