@@ -12,7 +12,17 @@
 
 ## ⚙️ Tech Stack & Tools
 
-COMING SOON 
+| Tech/Tool   | Badge                                                                                 |
+|-------------|---------------------------------------------------------------------------------------|
+| JavaScript  | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| TypeScript  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| SQL         | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)      |
+| ReactJS     | ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)      |
+| TailwindCSS | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| ExpressJS   | ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white) |
+| Node.js     | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+
+```
 
 ## 🤖 About Me
 
